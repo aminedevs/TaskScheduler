@@ -1,0 +1,10 @@
+/build/
+*.exe
+*.o
+*.obj
+*.log
+*.suo
+*.user
+*.vcxproj*
+.vscode/
+.DS_Store
